@@ -6,10 +6,10 @@ README = (Path(__file__).parent/"README.md").read_text()
 
 setuptools.setup(
     name="streamlit-disqus",
-    version="0.1.0",
+    version="0.1.1",
     author="okld",
     author_email="",
-    description="A streamlit component to integrate Disqus in your applications.",
+    description="A streamlit component to embed Disqus in your applications.",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/okld/streamlit-disqus",
