@@ -25,19 +25,19 @@ def st_disqus(
     ----------
     shortname : str
         The unique identifier for your website as registered on Disqus.
-    url : str
+    url : str or None
         A unique URL for each page where Disqus is present.
-    identifier : str
+    identifier : str or None
         A unique identifier for each page where Disqus is present.
-    title : str
+    title : str or None
         A unique title for each page where Disqus is present.
-    category_id : str
+    category_id : str or None
         An ID for the category that will to be associated with the
         current page.
-    language : str
+    language : str or None
         A parameter for dynamically specifying the language for
         multilingual websites.
-    key : str
+    key : str or None
         An optional string to use as the unique key for the widget.
         If this is omitted, a key will be generated for the widget
         based on its content. Multiple widgets of the same type may
