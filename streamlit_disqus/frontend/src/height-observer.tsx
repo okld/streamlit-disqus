@@ -31,7 +31,7 @@ const HeightObserver = ({ children, fixedHeight, onChange }: HeightObserverProps
       // Unobserve div on unmount
       return () => ro.disconnect()
     }
-  }, [fixedHeight])
+  }, [fixedHeight, onChange])
 
   return (
     <div ref={divRef}>
