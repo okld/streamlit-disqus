@@ -20,7 +20,7 @@ st_disqus("streamlit-disqus-demo")
 
 [![Open in Streamlit][share_badge]][share_link] 
 
-[![Demo preview][share_img]][share_link]
+[![Preview][share_img]][share_link]
 
 [share_badge]: https://static.streamlit.io/badges/streamlit_badge_black_white.svg
 [share_link]: https://share.streamlit.io/okld/streamlit-gallery/main?p=disqus

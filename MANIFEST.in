@@ -1,1 +1,1 @@
-recursive-include streamlit_disqus/frontend/build *
+recursive-include streamlit_*/frontend/build *
