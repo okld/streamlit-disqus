@@ -8,7 +8,7 @@
 pip install streamlit-disqus
 ```
 
-## Quick usage
+## Getting started
 
 ```python
 from streamlit_disqus import st_disqus
